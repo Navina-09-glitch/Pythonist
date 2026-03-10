@@ -1,4 +1,4 @@
-n=int(input("enter number of elements to be in list"))
+ n=int(input("enter number of elements to be in list"))
 if(n<=0):
     print("{} is invalid".format(n))
 else:
