@@ -1,0 +1,10 @@
+import mathsinfo as m, AOP as a,icici as ic
+print("-"*50)
+print("Val of PI=",m.PI)
+print("Val of E=",m.E)
+a.addop(10,20)
+a.addop(20,30)
+a.mulop(4,5)
+print("BankName=",ic.bname)
+print("Bankaddr=",ic.addr)
+ic.simpleint()

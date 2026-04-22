@@ -1,0 +1,7 @@
+a,b=float(input("enter a:")),float(input("enter b:"))
+print("\t\t {} > {}={}".format(a,b,a>b))
+print("\t\t {} < {}={}".format(a,b,a<b))
+print("\t\t {} == {}={}".format(a,b,a==b))
+print("\t\t {} != {}={}".format(a,b,a!=b))
+print("\t\t {} >= {}={}".format(a,b,a>=b))
+print("\t\t {} <= {}={}".format(a,b,a<=b))

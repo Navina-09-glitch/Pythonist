@@ -1,0 +1,20 @@
+from ClasslevelDatamembersEx1 import Student
+
+
+class student:pass
+#Main program
+Student.city = "Newyork"
+Student.crs="PYTHON"
+#here crs and city are called class level data member
+#create two objects
+s1=Student()
+s2=Student()
+#Access the class level data members w.r.t object name
+print("-"*50)
+print("Student course=",s2.crs)
+print("Student course=",s2.city)
+print("-"*50)
+print("content of s1=",s1.__dict__)
+print("Number of values in s1=",len(s1.__dict__))
+print("content of s2=",s2.__dict__)
+print("Number of values in s2=",len(s2.__dict__))
