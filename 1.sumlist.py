@@ -1,4 +1,4 @@
-tn=int(input("Enter the number of elements"))
+n=int(input("Enter the number of elements"))
 if n<=0:
     print("The list cannot be empty")
 else:

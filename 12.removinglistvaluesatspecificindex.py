@@ -8,18 +8,18 @@ if(n<=0):
     print("input is invalid")
 else:
     lst=[]
-    for i in range(1,n+1):
+    for i in range(n):
         val=input("enter {}th word".format(i)) # word is string
         lst.append(val)
     print(lst)
-    del lst[0]
-    del lst[4]
-    del lst[5]
+    lst.pop(5)
+    lst.pop(4)
+    lst.pop(0)
     print(lst)
 
 #we can use pop but it removes only the last element of list
-#lst.pop(5)
-#lst.pop(4)
-#lst.pop(0)
-
+#del lst[5]
+#del lst[4]
+#del lst[0]
+# pop and del will remove values by index and del can also remove by value
 
