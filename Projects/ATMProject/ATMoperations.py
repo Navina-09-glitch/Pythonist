@@ -1,4 +1,4 @@
-from ATMExceptions import DepositError,WithdrawError,InsuffFundsError
+from ATMExceptions import DepositError,WithdrawError,InsufffundError
 bal=500.00 #bal is global var
 def deposit():
     damt=float(input("Enter Deposit Amount")) #may raise valueerror
@@ -15,10 +15,11 @@ def withdraw():
     if (wamt<0):
         raise WithdrawError
     elif(wamt+500)>bal:
-        raise InsuffFundsError
+        raise InsufffundError
     else:
         bal=bal-wamt
         print("\tyour account xxxxxxx123 debited with INR:{}".format(wamt))
         print("\tNow Avaialable bal in your account xxxxxxx123 INR:{}".format(bal))
-    def baleng():
+def balenq():
         print("\tNow Avaialable balance in your account xxxxxxx123 INR:{}".format(bal))
+

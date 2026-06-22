@@ -1,3 +1,3 @@
 class DepositError(Exception):pass
 class WithdrawError(BaseException):pass
-class InsuffFundsError(Exception):pass
+class InsufffundError(Exception):pass

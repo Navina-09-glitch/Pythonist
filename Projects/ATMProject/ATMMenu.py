@@ -7,3 +7,5 @@ def menu():
     print("\t\t3.Bal Enq")
     print("\t\t4.Exit")
     print("*"*50)
+
+menu()
