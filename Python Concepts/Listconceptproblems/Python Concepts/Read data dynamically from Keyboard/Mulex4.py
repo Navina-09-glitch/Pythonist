@@ -1,1 +1,0 @@
-print("Mul=",float(input("Enter first value: "))* float(input("Enter second value: ")))

@@ -1,1 +1,0 @@
-class DivisionError(Exception):pass
