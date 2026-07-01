@@ -26,61 +26,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000021334" />
-      <entry key="MS500" value="1.004632478513324" />
-      <entry key="S2" value="1.2608875494509209" />
-      <entry key="S5" value="1.5842266544236687" />
-      <entry key="S10" value="1.7646052265013763" />
-      <entry key="S30" value="2.030524859966498" />
-      <entry key="S60" value="2.611268873656902" />
-      <entry key="M2" value="3.850407411576926" />
-      <entry key="M5" value="8.26678527017452" />
-      <entry key="M10" value="20.616133216383336" />
-      <entry key="M15" value="32.16561465241371" />
-      <entry key="M30" value="53.99043737459695" />
-      <entry key="H1" value="86.50576876185868" />
-      <entry key="H2" value="172.42467758868378" />
-      <entry key="H4" value="321.26076064627955" />
-      <entry key="D1" value="635.0847727957937" />
-      <entry key="W1" value="723.7821081311971" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000000000000005" />
+      <entry key="S5" value="1.0000019342559952" />
+      <entry key="S10" value="1.0013975600274696" />
+      <entry key="S30" value="1.1579451821474191" />
+      <entry key="S60" value="1.791166027869459" />
+      <entry key="M2" value="3.594134037700498" />
+      <entry key="M5" value="13.209205989212736" />
+      <entry key="M10" value="31.291419721638203" />
+      <entry key="M15" value="47.06884868882576" />
+      <entry key="M30" value="79.92000481853908" />
+      <entry key="H1" value="122.21604088331814" />
+      <entry key="H2" value="211.35893565448356" />
+      <entry key="H4" value="363.31372805402464" />
+      <entry key="D1" value="692.0719162951824" />
+      <entry key="W1" value="786.643557647544" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.6991141775780333E-156" />
-      <entry key="S2" value="1.1417095687543765E-39" />
-      <entry key="S5" value="2.6486358702626233E-16" />
-      <entry key="S10" value="1.6274630165575568E-8" />
-      <entry key="S30" value="0.0025341775704375304" />
-      <entry key="S60" value="0.05034078778182561" />
-      <entry key="M2" value="0.2247821951066428" />
-      <entry key="M5" value="0.5944120447043977" />
-      <entry key="M10" value="0.9523163610769239" />
-      <entry key="M15" value="1.1734219198856468" />
-      <entry key="M30" value="1.5101646956309678" />
-      <entry key="H1" value="1.9583170580609972" />
-      <entry key="H2" value="3.1288151720621498" />
-      <entry key="H4" value="5.041067998451928" />
-      <entry key="D1" value="8.79583217466783" />
-      <entry key="W1" value="9.815119178491063" />
+      <entry key="MS500" value="3.797827039036694E-234" />
+      <entry key="S2" value="4.414523118677694E-59" />
+      <entry key="S5" value="4.549406912881611E-24" />
+      <entry key="S10" value="2.1365709775102466E-12" />
+      <entry key="S30" value="1.441224846117149E-4" />
+      <entry key="S60" value="0.015483894865742514" />
+      <entry key="M2" value="0.19471427851524226" />
+      <entry key="M5" value="1.2128909849236067" />
+      <entry key="M10" value="2.580634222559481" />
+      <entry key="M15" value="3.451534881419857" />
+      <entry key="M30" value="4.789985333035846" />
+      <entry key="H1" value="5.9227780767984015" />
+      <entry key="H2" value="7.449054750351692" />
+      <entry key="H4" value="9.57649144258168" />
+      <entry key="D1" value="13.677644463280977" />
+      <entry key="W1" value="14.796646701880585" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.6285066872609143" />
-      <entry key="MS500" value="0.9118908707697033" />
-      <entry key="S2" value="1.1328722382927507" />
-      <entry key="S5" value="1.4661503130919338" />
-      <entry key="S10" value="1.6851106501240427" />
-      <entry key="S30" value="1.999974263022382" />
-      <entry key="S60" value="2.641071693553303" />
-      <entry key="M2" value="4.059449810756023" />
-      <entry key="M5" value="8.846821947104068" />
-      <entry key="M10" value="21.54995310678616" />
-      <entry key="M15" value="33.31963602441314" />
-      <entry key="M30" value="55.48432344751743" />
-      <entry key="H1" value="88.45180776873252" />
-      <entry key="H2" value="175.54210191371874" />
-      <entry key="H4" value="326.2911777722208" />
-      <entry key="D1" value="643.8769417346181" />
-      <entry key="W1" value="733.5966246816981" />
+      <entry key="MS100" value="4.6194221031523215E-4" />
+      <entry key="MS500" value="0.215237297084726" />
+      <entry key="S2" value="0.6811290173202466" />
+      <entry key="S5" value="0.8576152262144114" />
+      <entry key="S10" value="0.9272814430458953" />
+      <entry key="S30" value="1.126683568702398" />
+      <entry key="S60" value="1.7816720601338731" />
+      <entry key="M2" value="3.763797936881624" />
+      <entry key="M5" value="14.383272536110782" />
+      <entry key="M10" value="33.82754277762446" />
+      <entry key="M15" value="50.477633266012994" />
+      <entry key="M30" value="84.67627220127933" />
+      <entry key="H1" value="128.11540294072182" />
+      <entry key="H2" value="218.79046434358014" />
+      <entry key="H4" value="372.87633149377103" />
+      <entry key="D1" value="705.7452671879554" />
+      <entry key="W1" value="801.4395066073771" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -91,83 +91,91 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.11.commonlist.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.removinglistvaluesatspecificindex.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14.listwithouteven.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16.python1st5last5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.18.Permutations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.20.listindex.executor&quot;: &quot;Run&quot;,
-    &quot;Python.21.listofcharacters2string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.23.flattenshallowlist.executor&quot;: &quot;Run&quot;,
-    &quot;Python.24appendlist.executor&quot;: &quot;Run&quot;,
-    &quot;Python.25randomelementinlist.executor&quot;: &quot;Run&quot;,
-    &quot;Python.27secondsmallestnumlist.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ATMDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ATMExceptions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ATMMenu.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ATMOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ATMoperations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CSVDictReadEx1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FunctionEncap.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FunctionEncapDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SameAccountClassMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sameaccountclass.executor&quot;: &quot;Run&quot;,
-    &quot;Python.account1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.account2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.account3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.account4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.account5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.copylist.executor&quot;: &quot;Run&quot;,
-    &quot;Python.differencebwlists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.emptylist.executor&quot;: &quot;Run&quot;,
-    &quot;Python.indexofaniteminlist.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listindex.executor&quot;: &quot;Run&quot;,
-    &quot;Python.longestword.executor&quot;: &quot;Run&quot;,
-    &quot;Python.orderoftuples.executor&quot;: &quot;Run&quot;,
-    &quot;Python.otherprog1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.otherprog2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.otherprog3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.otherprog4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.otherprog5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.password generator2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.passwordgenerator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python1st5last5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.removeduplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Python.removeduplicates2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sameaccountclass1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shuffle elements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stringcount.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stringcount2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/PycharmProjects/PythonProject1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.11.commonlist.executor": "Run",
+    "Python.12.executor": "Run",
+    "Python.12.removinglistvaluesatspecificindex.executor": "Run",
+    "Python.14.listwithouteven.executor": "Run",
+    "Python.16.python1st5last5.executor": "Run",
+    "Python.18.Permutations.executor": "Run",
+    "Python.20.listindex.executor": "Run",
+    "Python.21.listofcharacters2string.executor": "Run",
+    "Python.23.flattenshallowlist.executor": "Run",
+    "Python.24appendlist.executor": "Run",
+    "Python.25randomelementinlist.executor": "Run",
+    "Python.27secondsmallestnumlist.executor": "Run",
+    "Python.27secondsmallestnumlst.executor": "Run",
+    "Python.27secsmallnumlist.executor": "Run",
+    "Python.29uniquelist.executor": "Run",
+    "Python.ATMDemo.executor": "Run",
+    "Python.ATMExceptions.executor": "Run",
+    "Python.ATMMenu.executor": "Run",
+    "Python.ATMOperations.executor": "Run",
+    "Python.ATMoperations.executor": "Run",
+    "Python.CSVDictReadEx1.executor": "Run",
+    "Python.FunctionEncap.executor": "Run",
+    "Python.FunctionEncapDemo.executor": "Run",
+    "Python.SameAccountClassMethods.executor": "Run",
+    "Python.Sameaccountclass.executor": "Run",
+    "Python.account1.executor": "Run",
+    "Python.account2.executor": "Run",
+    "Python.account3.executor": "Run",
+    "Python.account4.executor": "Run",
+    "Python.account5.executor": "Run",
+    "Python.copylist.executor": "Run",
+    "Python.differencebwlists.executor": "Run",
+    "Python.elementswithinspecifiedrange.executor": "Run",
+    "Python.emptylist.executor": "Run",
+    "Python.indexofaniteminlist.executor": "Run",
+    "Python.listindex.executor": "Run",
+    "Python.longestword.executor": "Run",
+    "Python.orderoftuples.executor": "Run",
+    "Python.otherprog1.executor": "Run",
+    "Python.otherprog2.executor": "Run",
+    "Python.otherprog3.executor": "Run",
+    "Python.otherprog4.executor": "Run",
+    "Python.otherprog5.executor": "Run",
+    "Python.password generator2.executor": "Run",
+    "Python.passwordgenerator.executor": "Run",
+    "Python.python1st5last5.executor": "Run",
+    "Python.removeduplicates.executor": "Run",
+    "Python.removeduplicates2.executor": "Run",
+    "Python.sameaccountclass1.executor": "Run",
+    "Python.shuffle elements.executor": "Run",
+    "Python.stringcount.executor": "Run",
+    "Python.stringcount2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "F:/PycharmProjects/PythonProject1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PycharmProjects\PythonProject1\set1answers" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\PycharmProjects\PythonProject1" />
+      <recent name="F:\PycharmProjects" />
       <recent name="F:\PycharmProjects\PythonProject1\Projects" />
       <recent name="F:\PycharmProjects\PythonProject1\password generator" />
       <recent name="F:\PycharmProjects\PythonProject1\set1answers" />
-      <recent name="E:\PycharmProjects\PythonProject1\Python Concepts\Listconceptproblems" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -187,7 +195,10 @@
       <workItem from="1781375349243" duration="20890000" />
       <workItem from="1781464598408" duration="87000" />
       <workItem from="1781467703158" duration="3145000" />
-      <workItem from="1782091653051" duration="2429000" />
+      <workItem from="1782091653051" duration="3065000" />
+      <workItem from="1782685268060" duration="672000" />
+      <workItem from="1782687476329" duration="1367000" />
+      <workItem from="1782697147044" duration="4600000" />
     </task>
     <servers />
   </component>
@@ -211,27 +222,29 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject1$ATMDemo.coverage" NAME="ATMDemo Coverage Results" MODIFIED="1781469408371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/ATMProject" />
     <SUITE FILE_PATH="coverage/PythonProject1$FunctionEncapDemo.coverage" NAME="FunctionEncapDemo Coverage Results" MODIFIED="1781389077670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
-    <SUITE FILE_PATH="coverage/PythonProject1$sameaccountclass1.coverage" NAME="sameaccountclass1 Coverage Results" MODIFIED="1781392722939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
+    <SUITE FILE_PATH="coverage/PythonProject1$29uniquelist.coverage" NAME="29uniquelist Coverage Results" MODIFIED="1782698458247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/set1answers" />
     <SUITE FILE_PATH="coverage/PythonProject1$FunctionEncap.coverage" NAME="FunctionEncap Coverage Results" MODIFIED="1781388162638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
     <SUITE FILE_PATH="coverage/PythonProject1$account4.coverage" NAME="account4 Coverage Results" MODIFIED="1781384168625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
+    <SUITE FILE_PATH="coverage/PythonProject1$account5.coverage" NAME="account5 Coverage Results" MODIFIED="1781387557571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
+    <SUITE FILE_PATH="coverage/PythonProject1$account1.coverage" NAME="account1 Coverage Results" MODIFIED="1781375544727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
+    <SUITE FILE_PATH="coverage/PythonProject1$elementswithinspecifiedrange.coverage" NAME="elementswithinspecifiedrange Coverage Results" MODIFIED="1782713696360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/set1answers" />
+    <SUITE FILE_PATH="coverage/PythonProject1$otherprog3.coverage" NAME="otherprog3 Coverage Results" MODIFIED="1781381969491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
+    <SUITE FILE_PATH="coverage/PythonProject1$otherprog1.coverage" NAME="otherprog1 Coverage Results" MODIFIED="1781376174254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
+    <SUITE FILE_PATH="coverage/PythonProject1$passwordgenerator.coverage" NAME="passwordgenerator Coverage Results" MODIFIED="1781405953300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject1$account3.coverage" NAME="account3 Coverage Results" MODIFIED="1781381981164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
+    <SUITE FILE_PATH="coverage/PythonProject1$ATMDemo.coverage" NAME="ATMDemo Coverage Results" MODIFIED="1781469408371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/ATMProject" />
+    <SUITE FILE_PATH="coverage/PythonProject1$sameaccountclass1.coverage" NAME="sameaccountclass1 Coverage Results" MODIFIED="1781392722939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
     <SUITE FILE_PATH="coverage/PythonProject1$otherprog4.coverage" NAME="otherprog4 Coverage Results" MODIFIED="1781386383594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
     <SUITE FILE_PATH="coverage/PythonProject1$ATMOperations.coverage" NAME="ATMOperations Coverage Results" MODIFIED="1781469356953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/ATMProject" />
-    <SUITE FILE_PATH="coverage/PythonProject1$account5.coverage" NAME="account5 Coverage Results" MODIFIED="1781387557571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
     <SUITE FILE_PATH="coverage/PythonProject1$ATMMenu.coverage" NAME="ATMMenu Coverage Results" MODIFIED="1781469272942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/ATMProject" />
-    <SUITE FILE_PATH="coverage/PythonProject1$account1.coverage" NAME="account1 Coverage Results" MODIFIED="1781375544727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
     <SUITE FILE_PATH="coverage/PythonProject1$Sameaccountclass.coverage" NAME="Sameaccountclass Coverage Results" MODIFIED="1781392488726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
     <SUITE FILE_PATH="coverage/PythonProject1$password_generator2.coverage" NAME="password generator2 Coverage Results" MODIFIED="1781406508007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject1$otherprog3.coverage" NAME="otherprog3 Coverage Results" MODIFIED="1781381969491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
     <SUITE FILE_PATH="coverage/PythonProject1$account2.coverage" NAME="account2 Coverage Results" MODIFIED="1781376419977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
     <SUITE FILE_PATH="coverage/PythonProject1$SameAccountClassMethods.coverage" NAME="SameAccountClassMethods Coverage Results" MODIFIED="1781394324607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
-    <SUITE FILE_PATH="coverage/PythonProject1$otherprog1.coverage" NAME="otherprog1 Coverage Results" MODIFIED="1781376174254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
     <SUITE FILE_PATH="coverage/PythonProject1$otherprog2.coverage" NAME="otherprog2 Coverage Results" MODIFIED="1781380088874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
-    <SUITE FILE_PATH="coverage/PythonProject1$passwordgenerator.coverage" NAME="passwordgenerator Coverage Results" MODIFIED="1781405953300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$otherprog5.coverage" NAME="otherprog5 Coverage Results" MODIFIED="1781387687322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
     <SUITE FILE_PATH="coverage/PythonProject1$ATMExceptions.coverage" NAME="ATMExceptions Coverage Results" MODIFIED="1781469267837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/ATMProject" />
-    <SUITE FILE_PATH="coverage/PythonProject1$account3.coverage" NAME="account3 Coverage Results" MODIFIED="1781381981164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Encapsulation" />
     <SUITE FILE_PATH="coverage/PythonProject1$ATMoperations.coverage" NAME="ATMoperations Coverage Results" MODIFIED="1781464657141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/ATMProject" />
   </component>
 </project>
